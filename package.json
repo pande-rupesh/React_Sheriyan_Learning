@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "02-component-props",
+=======
+  "name": "folder-01",
+>>>>>>> d17878185ab7b012213852290fe6cc1a5ed75b79
   "private": true,
   "version": "0.0.0",
   "type": "module",
